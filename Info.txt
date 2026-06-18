@@ -1,24 +1,26 @@
 # Hi, I'm Sri Vivek Chand
 
-🎓 B.Tech CSE Student
-💻 Full Stack Developer
-☕ Java Developer
-🐍 Python Enthusiast
+🎓 Pre-final year B.Tech CSE @ Anurag University
+💻 Full Stack Developer — Java/Spring Boot + MERN
+🔭 Currently building **CodeWorks**, a distributed code execution engine handling 50+ concurrent users at sub-800ms latency, backed by 3,000+ automated tests
+
+## Experience
+- Java Backend Developer Intern @ Infosys Springboard
+- MERN Stack Developer Intern @ IIT Ropar
 
 ## Skills
-- Java
-- Python
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- Git & GitHub
+**Languages:** Java · Python · JavaScript
+**Backend:** Spring Boot · Node.js · Express.js · REST APIs
+**Frontend:** React.js
+**Database:** MongoDB · MySQL
+**Tools:** Docker · Git & GitHub · GitHub Actions · JUnit5
 
 ## Current Focus
-- Full Stack Development
-- Data Structures & Algorithms
-- AI Applications
+- System design & distributed systems
+- AI/ML applications (Oracle Cloud GenAI certified)
+- Competitive programming (LeetCode Top 20%, 500+ problems solved)
 
 ## Connect
-LinkedIn: linkedin.com/in/sri-vivek-chand
+🔗 GitHub: github.com/Vivek105013
+💼 LinkedIn: linkedin.com/in/donkena-sri-vivek-chand
+📧 23eg105a13@anurag.edu.in
