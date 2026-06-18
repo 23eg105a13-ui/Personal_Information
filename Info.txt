@@ -1,0 +1,24 @@
+# Hi, I'm Sri Vivek Chand
+
+🎓 B.Tech CSE Student
+💻 Full Stack Developer
+☕ Java Developer
+🐍 Python Enthusiast
+
+## Skills
+- Java
+- Python
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Git & GitHub
+
+## Current Focus
+- Full Stack Development
+- Data Structures & Algorithms
+- AI Applications
+
+## Connect
+LinkedIn: linkedin.com/in/sri-vivek-chand
